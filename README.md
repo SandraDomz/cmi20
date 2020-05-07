@@ -4,9 +4,9 @@
 
 ## Creación Multimedia Interactiva (Fac. Bellas artes)
 
-**Autor:** 
+**Autor:** Sandra Valdivieso Domínguez
 
-**Título:** 
+**Título:** Please be my Valentine
 
 **Resumen:**
 
@@ -15,8 +15,6 @@
 
 ### Memoria del proyecto:
 
-
-Hola
 
 
 
