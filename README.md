@@ -14,7 +14,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Autor:**  Sandra Valdivieso Domínguez
 
-**Resumen** : "Please Be My Valentine" es un juego tipo dating simulator en el que nos ponemos en la piel de nuestra protagonista en el día de San Valentín. Hay 3 rutas para escoger, todas ellas esconden secretos que tendrás que desvelar escogiendo las respuestas correctas para avanzar la historia y llegar al final feliz.
+**Resumen** : "Please Be My Valentine" es un juego tipo dating simulator en el que nos ponemos en la piel de nuestra protagonista en el día de San Valentín. Hay 3 rutas para escoger, todas ellas esconden secretos que tendrás que desvelar escogiendo las respuestas correctas para avanzar la historia y llegar al final.
 
 **Estilo/género:**  Novela visual/Juego
 
