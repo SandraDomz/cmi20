@@ -75,7 +75,7 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 **Investigación de campo** (propuestas inspiradoras para el proyecto)
 
 - Lovely Hero (juego otome para android) https://play.google.com/store/apps/details?id=com.Visuki.LH&gl=ES (escogido como propuesta visual, por las paletas de colores y las gamas rosadas o con colores pasteles. También sirven de referencia cualquier juego de la misma compañía, Visuki Otomes.)
-- Cinderella Phenomenon (Juego otome para PC) https://store.steampowered.com/app/568770/Cinderella_Phenomenon__OtomeVisual_Novel/ (exraido la parte que incluye diferentes rutas que se pueden escoger desde el principio del juego)
+- Cinderella Phenomenon (Juego otome para PC) https://store.steampowered.com/app/568770/Cinderella_Phenomenon__OtomeVisual_Novel/ (extraido la parte que incluye diferentes rutas que se pueden escoger desde el principio del juego)
 - Corazón de melón (Juego otome online) https://www.corazondemelon.es/ (de aquí saqué el tema de desbloquear imágenes exclusivas de cada ruta si escoges las opciones adecuadas)
 
 
