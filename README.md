@@ -153,12 +153,9 @@ Mayo 2020
 
 
 
-### comentarios
+### Comentarios
 
-Ejemplos de otros años: https://github.com/mgea/interart 
-
-La página web de Github se podrá visualizar con el siguiente enlace: https://sandradomz.github.io (cuando se haya subido el código HTML5) 
-
+Ejemplos de otros años: https://github.com/mgea/interart
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
 
