@@ -142,6 +142,7 @@ Es un problema que creo que no puedo resolver, y quizás por eso es el que más 
 
 
 ![](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)
+
 https://creativecommons.org/licenses/?lang=es
 
 Mayo 2020
