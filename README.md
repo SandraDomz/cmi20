@@ -18,9 +18,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela visual/Juego
 
-**Logotipo** : ![Logo](https://raw.githubusercontent.com/sandradomz/sandradomz.github.io/master/salida/logo.png)
+**Logotipo** : 
+![Logo](https://raw.githubusercontent.com/sandradomz/sandradomz.github.io/master/salida/logo.png)
 
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px tamaño fijo (No reescalable porque cuenta con elementos hechos con pixel art y deformar el formato puede provocar que los gráficos se vean mal)
 
