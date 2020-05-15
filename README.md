@@ -47,8 +47,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 Despues de sucederse las intros y llegar al menú, hay varias opciones para pulsar:
 - "Juego". Pulsando este botón comienza la parte más imporante del proyecto, el juego en sí. Se sucede un monólogo de la protagonista y tras él una pantalla en la que puedes mover libremente al personaje con las flechas del teclado hasta dirigirla hacia la puerta. Una vez pulsada la puerta se abrirá una pantalla de selección de ruta, y una vez escogido el personaje deseado comenzará su historia. Todas las rutas son sucesiones de diálogos en diferentes espacios de la protagonista con la chica elegida. De vez en cuando el jugador tendrá que escoger una de las opciones en pantalla para continuar el juego. Si todas se responden correctamente, se llegará al final del juego con una imagen exclusiva. Si solo se responden algunas bien, se llegará al final del juego pero sin imagen exclusiva. Si todas se responden mal, es posible llegar a un Game Over. 
 - "Extras". En este botón se puede navegar por dos galerias de imágenes que muestran tanto información sobre los personajes como bocetos exclusivos de el "making of". También se puede visualizar un video en el que muestra como hice los sprites oficiales de los personajes en Procreate a modo de Speedpaint.
-
--"Créditos". En esta pestaña simplemente se suceden los créditos en scroll de abajo hacia arriba. 
+- "Créditos". En esta pestaña simplemente se suceden los créditos en scroll de abajo hacia arriba. 
 Por último en ajustes, se puede cambiar el volumen de la música.
 
 
