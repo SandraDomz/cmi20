@@ -8,12 +8,12 @@
 
 **Título:** Please be my Valentine
 
-**Resumen:**
+**Resumen:** ¡Nuestra heroína está en apuros! Su mejor amigo le hizo aceptar una apuesta que definitivamente no puede perder. Sin embargo, para ganar, va a tener que conquistar el corazón de una chica antes de que acabe el día. ¿Serás capaz de ayudarla?
 
 **Licencia: (creative Commons)**
 
 
-### Memoria del proyecto:
+### Memoria del proyecto: "Please Be My Valentine" es un juego tipo dating simulator en el que nos ponemos en la piel de nuestra protagonista en el día de San Valentín. Hay 3 rutas para escoger, todas ellas esconden secretos que tendrás que desvelar escogiendo las respuestas correctas para avanzar la historia y llegar al final feliz.
 
 
 
