@@ -18,7 +18,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Novela visual/Juego
 
-**Logotipo** : 
+**Logotipo** : file:///C:/Users/alsan/Desktop/PLEASEBEMYVALENTINESandraValdiviesoDominguez/Recursos/Menu/logo.PNG
 
 (insertar imágenes a resolucion de 100px alto)
 
