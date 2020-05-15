@@ -37,6 +37,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 - Github: https://github.com/SandraDomz/sandradomz.github.io
 - Twitter: https://twitter.com/th3dragonmaiden
 - Instagram: https://www.instagram.com/thedragonmaiden/
+- Youtube. https://www.youtube.com/channel/UCiWZKM9N0gA8izM4iiGwxmw?app=desktop
 
 
 
