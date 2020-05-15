@@ -139,7 +139,7 @@ Es un problema que creo que no puedo resolver, y quizás por eso es el que más 
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
+![](https://licensebuttons.net/l/by-nc-nd/3.0/88x31.png)
 
 https://creativecommons.org/licenses/?lang=es
 
