@@ -96,7 +96,7 @@ Soy una persona que se considera fanática de los juegos tipo Simulador de Citas
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-- Juego. (En proceso)
+- Juego. Para hacer una ruta tuve que hacer cantidad de diálogos (unos 100 por ruta) individualmente. Lo realmente dificil fue hacer la primera, ya que tuve que insertar variables, para que cada respuesta del jugador decidiera el final que sacaría. Todas las respuestas correctas suman +1 a la variable X, y si cuando alcanzas el final la variable es igual a 5, se desbloquea el final bueno. De lo contrario, te quedas en el Game Over. Los finales los programé con una clausula condicional (de if y else). Cuando la primera ruta estuvo hecha, que me tomó un par de días enteros, el resto eran más fáciles, porque ya tenía una plantilla que podia copiar y pegar. Sin emargo a las rutas nuevas les he añadido otro tipo de opción, que es más bien elegir entre dos imágenes que entre dos respuestas. Simplemente para darle algo más de interés al juego.
 - Video. Primero quise usar un video enlazado de Youtube (ya que yo tengo un canal allí) y al principio es lo que hice, ya que tanto en Hippani como en google chrome se visualizaba el video perfectamente. Sin embargo al exportarlo al Github me daba error, asi que como no sabía como solucionarlo lo que hice fue insertar el video en el proyecto en vez de usarlo como enlace de youtube. El video pesaba muchísimo así que tuve que comprimirlo varias veces hasta que conseguí que pesara 12 MB. Esto hace que el proyecto pese más, pero como el límite es 50 MB no creo que supusiera ningún problema por ahora. 
 - Instrucciones y ayuda al usuario. Mi proyecto no tiene muchas instrucciones como tal ya que me gusta más que el usuario tenga que investigar a ver lo que puede hacer por la interfaz (lo que quiero decir es que no me gusta señalarlo haciendolo evidente, sino que sea el jugador el que tenga que adivinar como avanzar, pero mi interfaz es muy intuitiva así que no es dificil hasta el punto en el que resulte un problema.) Por lo demás, todos los botones tienen sus correspondientes nombres e información como para que el usuario pueda navegar sin dificultad. 
 - Menús y elementos de navegación (botones). Al principio hice una interacción y unos botones muy sencillos, así que cuando era la hora de meterle musica y sonidos decedí rehacer esta parte por completo. Rehice tanto el menú como los botones, y para darle más interactividad hice una especie de intros interactivas en las que tienes que ir clickeando con el ratón para avanzar. Cuando pude incorporar los sonidos el proyecto comenzó a tener mejor aspecto y más como un juego de verdad.
@@ -108,12 +108,13 @@ Soy una persona que se considera fanática de los juegos tipo Simulador de Citas
 
 Una de las cosas ya las he mencionado en el apartado anterior y es la música. Como ya dije, me gustaría que la música no se repitiera desde el principio cada vez que se sale al menú (que es donde esta programada la música para empezar a sonar), ya que eso causa conflictos sobre todo con los conmutadores para silenciar el proyecto (cuando le pulsas se silencia, pero si sales al menú vuelve a sonar la música y el botón de silenciar sigue pulsado, por lo que tienes que pulsar dos veces para volver a silenciar)
 Es un problema que creo que no puedo resolver, y quizás por eso es el que más me molesta.
+Otra cosa significativa es el programa en sí. Quizás le he pedido mucho con este proyecto, pero esta claro que es un programa que no aguanta grandes cantidades de contenido. De vez en cuando se creaban carpetas en la línea de tiempo solas, en la reproducción del proyecto fallan muchas cosas pero cuando lo exportas te das cuenta de que funcionan bien... En general, eso es todo.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Creo que para ser el primer juego que hago, esta bastante bien. Por supuesto en mi cabeza era más largo, con más escenarios y decisiones pero, es muy dificil hacer algo profesional la primera vez, y además con este programa, que no soporta muy bien el tener mucho contenido dentro. En general, estoy satisfecha y contenta de haber terminado el juego.
 
 
 
