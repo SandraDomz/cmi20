@@ -1,0 +1,30 @@
+Los contenidos de la Práctica 3 han sido implementados en el botón JUGAR.
+
+
+
+----GUIA DEL JUEGO PARA CONSEGUIR EL FINAL BUENO-----
+
+En el caso de que el jugador se atasque al jugar, estas son las opciones que tienes que pulsar para ganar el juego:
+
+RUTA FAYE
+1. Dejame ayudarte con el papeleo
+2. ¿No tienes ninguna cita hoy?
+3. Porque eres linda 
+4. ¡Creo que te verias genial con falda!
+5. Me gustaría que los compartiéramos
+
+RUTA ANYA
+1. ¿A que jugabas?
+2. Puedo pasarme tu juego, te lo mostraré
+3. (Escoge la consola morada)
+4. ¿Anime?
+5. Es chocolate mágico. Me lo ha dado cupido.
+
+RUTA DELILAH
+1. No me apetece ir a clase
+2. No muchos, así que quería pasar el dia con alguien
+3. (Escoge el collar rosa)
+4. Si, me gusta hablar contigo.
+5. Tranquila, es solo un regalo.
+
+En el caso de no responder una de estas respuestas, saltará la pantalla de game over. ¡Esa es la dificultad!
