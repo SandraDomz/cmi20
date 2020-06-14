@@ -55,6 +55,7 @@ Por último en ajustes, se puede cambiar el volumen de la música.
 ### 2.2. Esquema de navegación 
 
 Esquema de navegación de la intro hasta el menú.
+
 ![Logo](https://raw.githubusercontent.com/sandradomz/sandradomz.github.io/master/salida/esquemanavegacion.jpg)
 
 
